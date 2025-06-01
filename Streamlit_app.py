@@ -22,8 +22,8 @@ st.set_page_config(page_title = title_page_web, #Nombre de la pagina, sale arrib
                    layout="wide")
 
 st.title(title_portada)
-st.subheader("_🍷 Con cariño para_: :red[GRACIELA INES HUIZA BAUTISTA] ")#, divider='rainbow')
-st.subheader("_⚡ De_:              :blue[S.D.C.A] ")#, divider='rainbow')
+st.subheader("_🍷 Con cariño para_: :red[Salis♐] ")#, divider='rainbow')
+st.subheader("_⚡ De_:              :blue[S.D.C.A ♊] ")#, divider='rainbow')
 st.markdown("---") # Para separar el titulo de los KPIs, se inserta un paragrafo usando un campo de markdown
 
 # Arreglo de 1x2 para las imágenes
